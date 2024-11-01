@@ -1,8 +1,7 @@
 # Antitna
 
 
-# Web3/TrustWallet 防红系统 | 链接安全与防拦截解决方案
-# Web3/TrustWallet Anti-Blocking System | Link Security and Anti-Interception Solution
+## Web3/TrustWallet 防红系统 | 链接安全与防拦截解决方案
 
 Antitna web3 防红系统是一款专业的链接防拦截与安全检测解决方案，特别适用于 **TrustWallet**、**Hashdit** 等平台的链接防护。系统通过实时检测域名状态、轮询多域名池并动态切换，有效避免因域名封禁而导致的访问中断问题，为您的链接提供多平台、多钱包的安全保障。Antitna web3防红系统可适配其他钱包和平台的安全需求，支持定制化功能，确保在钱包保持链接的高效性和稳定性。
 
