@@ -1,2 +1,26 @@
-# antitna
-TrustWallet Anti-Blocking System | Link Security and Anti-Interception Solution
+# Antitna
+
+
+# Web3/TrustWallet 防红系统 | 链接安全与防拦截解决方案
+# Web3/TrustWallet Anti-Blocking System | Link Security and Anti-Interception Solution
+
+Antitna web3 防红系统是一款专业的链接防拦截与安全检测解决方案，特别适用于 **TrustWallet**、**Hashdit** 等平台的链接防护。系统通过实时检测域名状态、轮询多域名池并动态切换，有效避免因域名封禁而导致的访问中断问题，为您的链接提供多平台、多钱包的安全保障。Antitna web3防红系统可适配其他钱包和平台的安全需求，支持定制化功能，确保在钱包保持链接的高效性和稳定性。
+
+## 功能亮点
+
+- **多域名池管理**：支持多组域名池，通过自动轮换机制有效分发流量，减少单一域名被封的风险，确保链接安全性与持续性。
+- **实时检测与自动下线**：可实时查询每个域名的有效性并自动下线被封禁的域名，确保访问体验的稳定流畅。
+- **灵活扩展与多平台适配**：系统支持对接 **TrustWallet**、**Hashdit** 等第三方安全检测接口，同时可根据需求扩展，兼容其他钱包及安全检测平台，满足多种业务需求。
+- **便捷对接 API 服务**：Antitna 提供高可靠性的 API 接口，轻松接入各类系统，便捷部署即可享受稳定的链接防拦截支持。
+
+## 提示
+
+本系统依赖 API 接口服务实现完整的防拦截功能。Antitna 提供灵活、可靠的接口支持，用户可自定义检测机制，快速提升链接在平台的访问稳定性。TrustWallet 还支持定制其他钱包平台的类似功能，以满足不同行业的链接防护需求。
+
+## 获取更多信息
+
+- **[Antitna](https://antitna.xyz)**：Antina Web3/TrustWallet 防红系统 | 链接安全与防拦截解决方案.
+
+## 🌐 联系我
+
+- **Telegram**：[✈️ @usdt520888](https://t.me/usdt520888)
